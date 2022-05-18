@@ -1,0 +1,49 @@
+﻿Build started 5/18/2022 10:11:10 AM.
+     1>Project "D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\GameProject\GameProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GameProject.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainObject.cpp
+         MainObject.cpp
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\commonfunction.h(53): warning C4091: 'typedef ' : ignored on left of 'Input' when no variable is declared
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\commonfunction.h(66): warning C4091: 'typedef ' : ignored on left of 'Map' when no variable is declared
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(93): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(94): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(177): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(178): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(187): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(201): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(256): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(294): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(312): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(321): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(345): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(347): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(349): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(350): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(369): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(389): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(399): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(400): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(402): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(403): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(425): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(452): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\onedrive - vnu.edu.vn\1. lamtrongvinh\6. dev\sdl\gameproject\gameproject\mainobject.cpp(468): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\Debug\GameProject.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_mixer.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\Debug\GameProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\Debug\GameProject.lib" /MACHINE:X86 Debug\BaseObject.obj
+         Debug\BulletObject.obj
+         Debug\CommonFunction.obj
+         Debug\game_map.obj
+         Debug\game_music.obj
+         Debug\main.obj
+         Debug\MainObject.obj
+         Debug\stdafx.obj
+         Debug\TextObject.obj
+         Debug\ThreatsObject.obj
+         Debug\timer_fps.obj
+         GameProject.vcxproj -> D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\Debug\GameProject.exe
+     1>Done Building Project "D:\OneDrive - vnu.edu.vn\1. LamTrongVinh\6. Dev\SDL\GameProject\GameProject\GameProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
